@@ -1,13 +1,10 @@
-#!/usr/bin/env python3
 import g4f
 import time
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Тестовый промпт
-TEST_PROMPT = "Привет! Как дела?"
+TEST_PROMPT = "hello, how are u?"
 
-# Модели для тестирования
 MODELS = [
     "gpt-3.5-turbo",
     "gpt-4",
@@ -16,7 +13,6 @@ MODELS = [
     "gemini-pro",
 ]
 
-# Провайдеры для исключения (известные проблемные)
 EXCLUDE_PROVIDERS = {
     "Openai", "OpenAI", "NeedsAuth", "Anthropic", "AnyProvider", 
     "Azure", "BingCreateImages", "BackendApi", "ApiAirforce", "ARTA",
@@ -115,19 +111,16 @@ def main():
     print("🔍 G4F Provider & Model Tester")
     print("=" * 50)
     
-    # Получить провайдеры
     providers = get_available_providers()
     print(f"📋 Найдено провайдеров для тестирования: {len(providers)}")
     print(f"🎯 Модели для тестирования: {', '.join(MODELS)}")
     print()
     
-    # Тестировать дефолтный g4f
     print("🧪 Тестирую дефолтный g4f...")
     default_result = test_default_g4f()
     print(f"   {default_result['status']}: {default_result.get('response_preview', default_result.get('error', ''))}")
     print()
     
-    # Создать задачи для тестирования
     tasks = []
     for provider_name, provider in providers:
         for model in MODELS:
@@ -139,7 +132,6 @@ def main():
     results = []
     successful = []
     
-    # Тестировать с ограничением по времени
     with ThreadPoolExecutor(max_workers=5) as executor:
         future_to_task = {
             executor.submit(test_provider_model, pname, prov, model): (pname, model)
@@ -147,10 +139,10 @@ def main():
         }
         
         completed = 0
-        for future in as_completed(future_to_task, timeout=300):  # 5 минут общий таймаут
+        for future in as_completed(future_to_task, timeout=300):
             pname, model = future_to_task[future]
             try:
-                result = future.result(timeout=35)  # 35 сек на задачу
+                result = future.result(timeout=35)
                 results.append(result)
                 
                 if result["status"] == "SUCCESS":
@@ -167,14 +159,13 @@ def main():
                 print(f"⚠️  {pname} + {model}: TIMEOUT/ERROR - {str(e)[:100]}")
     
     print()
-    print("📊 РЕЗУЛЬТАТЫ:")
+    print("📊 RESULTS:")
     print("=" * 50)
     
     if successful:
         print(f"✅ Рабочих комбинаций: {len(successful)}")
         print()
         
-        # Сортировать по времени ответа
         successful.sort(key=lambda x: x['time'])
         
         print("🏆 ТОП-10 БЫСТРЫХ И РАБОЧИХ:")
@@ -184,13 +175,13 @@ def main():
         print()
         print("🔧 КОД ДЛЯ ПЛАГИНА:")
         print("priority_providers = [")
-        for result in successful[:7]:  # Топ-7 для плагина
+        for result in successful[:7]:
             print(f'    "{result["provider"]}",  # {result["time"]}s')
         print("]")
         
         print()
         print("models_fallback = [")
-        # Найти самые популярные модели среди успешных
+        
         model_counts = {}
         for result in successful:
             model = result["model"]
@@ -206,7 +197,6 @@ def main():
         if default_result["status"] == "SUCCESS":
             print("💡 Но дефолтный g4f работает - используйте provider=None")
     
-    # Сохранить полные результаты
     with open("g4f_test_results.json", "w", encoding="utf-8") as f:
         json.dump({
             "default_g4f": default_result,
