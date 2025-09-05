@@ -9,7 +9,6 @@ A minimal utility to benchmark free g4f providers across several models and save
 
 ## Requirements
 - Python 3.10+
-- Pip
 
 ## Installation
 
