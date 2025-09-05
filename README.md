@@ -75,6 +75,9 @@ Virtual environment (Linux/macOS):
   - Cosmetic, from upstream providers. You can ignore or reduce concurrency in `test.py`.
 - Proxy
   - If you need a proxy, export `HTTPS_PROXY` or `HTTP_PROXY` before running.
+ 
+  - g4f, ai, providers, openai, chatgpt, python
+
 
 ## What is this script?
 `test_providers_g4f.py` is a benchmark/helper that probes g4f providers to find currently working combinations. You can use the generated JSON to hardcode a priority list in your own plugins/bots.
