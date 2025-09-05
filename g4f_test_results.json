@@ -1,0 +1,3624 @@
+{
+  "default_g4f": {
+    "provider": "DEFAULT_G4F",
+    "model": "gpt-3.5-turbo",
+    "status": "ERROR",
+    "error": "Model not found: gpt-3.5-turbo"
+  },
+  "all_results": [
+    {
+      "provider": "AsyncGeneratorProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "AsyncGeneratorProvider is not working"
+    },
+    {
+      "provider": "AsyncProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "AsyncProvider is not working"
+    },
+    {
+      "provider": "AsyncProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "AsyncProvider is not working"
+    },
+    {
+      "provider": "AsyncProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "AsyncProvider is not working"
+    },
+    {
+      "provider": "AsyncProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "AsyncProvider is not working"
+    },
+    {
+      "provider": "AsyncGeneratorProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "AsyncGeneratorProvider is not working"
+    },
+    {
+      "provider": "AsyncGeneratorProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "AsyncGeneratorProvider is not working"
+    },
+    {
+      "provider": "AsyncProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "AsyncProvider is not working"
+    },
+    {
+      "provider": "AsyncGeneratorProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "AsyncGeneratorProvider is not working"
+    },
+    {
+      "provider": "AsyncResult",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'AsyncIterator' has no attribute 'working'"
+    },
+    {
+      "provider": "AsyncResult",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'AsyncIterator' has no attribute 'working'"
+    },
+    {
+      "provider": "AsyncGeneratorProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "AsyncGeneratorProvider is not working"
+    },
+    {
+      "provider": "AsyncResult",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'AsyncIterator' has no attribute 'working'"
+    },
+    {
+      "provider": "AsyncResult",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'AsyncIterator' has no attribute 'working'"
+    },
+    {
+      "provider": "AsyncResult",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'AsyncIterator' has no attribute 'working'"
+    },
+    {
+      "provider": "Blackbox",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Blackbox Valid models: ['blackboxai', 'gpt-4.1-mini', 'gpt-4.1-nano', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'Python Agent', 'HTML Agent', 'Builder Agent', 'Java Agent', 'Ja"
+    },
+    {
+      "provider": "Blackbox",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Blackbox Valid models: ['blackboxai', 'gpt-4.1-mini', 'gpt-4.1-nano', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'Python Agent', 'HTML Agent', 'Builder Agent', 'Java Agent', "
+    },
+    {
+      "provider": "BlackboxPro",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: BlackboxPro Valid models: ['blackboxai', 'gpt-4o-mini', 'DeepSeek-V3', 'DeepSeek-R1', 'Meta-Llama-3.3-70B-Instruct-Turbo', 'Mistral-Small-24B-Instruct-2501', 'DeepSe"
+    },
+    {
+      "provider": "Blackbox",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Blackbox Valid models: ['blackboxai', 'gpt-4.1-mini', 'gpt-4.1-nano', 'gpt-4', 'gpt-4o', 'gpt-4o-mini', 'Python Agent', 'HTML Agent', 'Builder Agent', 'Java Agent',"
+    },
+    {
+      "provider": "BlackboxPro",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: BlackboxPro Valid models: ['blackboxai', 'gpt-4o-mini', 'DeepSeek-V3', 'DeepSeek-R1', 'Meta-Llama-3.3-70B-Instruct-Turbo', 'Mistral-Small-24B-Instruct-2501', 'DeepSeek-LLM-C"
+    },
+    {
+      "provider": "BlackboxPro",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: BlackboxPro Valid models: ['blackboxai', 'gpt-4o-mini', 'DeepSeek-V3', 'DeepSeek-R1', 'Meta-Llama-3.3-70B-Instruct-Turbo', 'Mistral-Small-24B-Instruct-2501', 'DeepSeek-"
+    },
+    {
+      "provider": "CablyAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "CablyAI is not working"
+    },
+    {
+      "provider": "CablyAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "CablyAI is not working"
+    },
+    {
+      "provider": "CablyAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "CablyAI is not working"
+    },
+    {
+      "provider": "CablyAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "CablyAI is not working"
+    },
+    {
+      "provider": "CablyAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "CablyAI is not working"
+    },
+    {
+      "provider": "BlackboxPro",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: BlackboxPro Valid models: ['blackboxai', 'gpt-4o-mini', 'DeepSeek-V3', 'DeepSeek-R1', 'Meta-Llama-3.3-70B-Instruct-Turbo', 'Mistral-Small-24B-Instruct-2501', 'DeepS"
+    },
+    {
+      "provider": "Cerebras",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Cerebras",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Cerebras",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Cerebras",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Cloudflare",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Cloudflare is not working"
+    },
+    {
+      "provider": "Cloudflare",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Cloudflare is not working"
+    },
+    {
+      "provider": "Cloudflare",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Cloudflare is not working"
+    },
+    {
+      "provider": "Cloudflare",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Cloudflare is not working"
+    },
+    {
+      "provider": "Cloudflare",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Cloudflare is not working"
+    },
+    {
+      "provider": "Cerebras",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Cohere",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Cohere",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Cohere",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Cohere",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Cohere",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "CohereForAI_C4AI_Command",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model gpt-3.5-turbo not found"
+    },
+    {
+      "provider": "CohereForAI_C4AI_Command",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model gpt-4 not found"
+    },
+    {
+      "provider": "CohereForAI_C4AI_Command",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model gpt-4o-mini not found"
+    },
+    {
+      "provider": "CohereForAI_C4AI_Command",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model claude-3-haiku not found"
+    },
+    {
+      "provider": "CohereForAI_C4AI_Command",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model gemini-pro not found"
+    },
+    {
+      "provider": "Copilot",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install or update \"curl_cffi\" package | pip install -U curl_cffi"
+    },
+    {
+      "provider": "Copilot",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install or update \"curl_cffi\" package | pip install -U curl_cffi"
+    },
+    {
+      "provider": "Copilot",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install or update \"curl_cffi\" package | pip install -U curl_cffi"
+    },
+    {
+      "provider": "Copilot",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install or update \"curl_cffi\" package | pip install -U curl_cffi"
+    },
+    {
+      "provider": "CopilotAccount",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "Copilot",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install or update \"curl_cffi\" package | pip install -U curl_cffi"
+    },
+    {
+      "provider": "CopilotAccount",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "CopilotAccount",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "CopilotAccount",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "CreateImagesProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "CreateImagesProvider is not working"
+    },
+    {
+      "provider": "CreateImagesProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "CreateImagesProvider is not working"
+    },
+    {
+      "provider": "CreateImagesProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "CreateImagesProvider is not working"
+    },
+    {
+      "provider": "CreateImagesProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "CreateImagesProvider is not working"
+    },
+    {
+      "provider": "CreateImagesProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "CreateImagesProvider is not working"
+    },
+    {
+      "provider": "CopilotAccount",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "BlackboxPro",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "No valid Blackbox session found. Please log in to Blackbox AI in your browser first."
+    },
+    {
+      "provider": "Blackbox",
+      "model": "gpt-4",
+      "status": "EMPTY_RESPONSE",
+      "time": 3.68
+    },
+    {
+      "provider": "Blackbox",
+      "model": "gpt-4o-mini",
+      "status": "EMPTY_RESPONSE",
+      "time": 3.71
+    },
+    {
+      "provider": "Custom",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:8080 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "Custom",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:8080 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "DeepInfra",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: DeepInfra Valid models: ['deepseek-ai/DeepSeek-V3.1', 'openai/gpt-oss-120b', 'openai/gpt-oss-20b', 'Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo', 'zai-org/GLM-4.5', 'moonshota"
+    },
+    {
+      "provider": "DeepInfra",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: DeepInfra Valid models: ['deepseek-ai/DeepSeek-V3.1', 'openai/gpt-oss-120b', 'openai/gpt-oss-20b', 'Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo', 'zai-org/GLM-4.5', 'moo"
+    },
+    {
+      "provider": "DeepInfra",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: DeepInfra Valid models: ['deepseek-ai/DeepSeek-V3.1', 'openai/gpt-oss-120b', 'openai/gpt-oss-20b', 'Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo', 'zai-org/GLM-4.5', '"
+    },
+    {
+      "provider": "DeepInfra",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: DeepInfra Valid models: ['deepseek-ai/DeepSeek-V3.1', 'openai/gpt-oss-120b', 'openai/gpt-oss-20b', 'Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo', 'zai-org/GLM-4.5', 'moon"
+    },
+    {
+      "provider": "DeepSeek",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepSeek",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepSeek",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepSeek",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepSeek",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepSeekAPI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "DeepSeekAPI is not working"
+    },
+    {
+      "provider": "DeepSeekAPI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "DeepSeekAPI is not working"
+    },
+    {
+      "provider": "DeepSeekAPI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "DeepSeekAPI is not working"
+    },
+    {
+      "provider": "DeepSeekAPI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "DeepSeekAPI is not working"
+    },
+    {
+      "provider": "DeepSeekAPI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "DeepSeekAPI is not working"
+    },
+    {
+      "provider": "DeepseekAI_JanusPro7b",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model 'gpt-3.5-turbo' not found. Available models: janus-pro-7b, janus-pro-7b-image"
+    },
+    {
+      "provider": "DeepseekAI_JanusPro7b",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model 'gpt-4' not found. Available models: janus-pro-7b, janus-pro-7b-image"
+    },
+    {
+      "provider": "DeepseekAI_JanusPro7b",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model 'gpt-4o-mini' not found. Available models: janus-pro-7b, janus-pro-7b-image"
+    },
+    {
+      "provider": "DeepseekAI_JanusPro7b",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model 'claude-3-haiku' not found. Available models: janus-pro-7b, janus-pro-7b-image"
+    },
+    {
+      "provider": "DeepseekAI_JanusPro7b",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model 'gemini-pro' not found. Available models: janus-pro-7b, janus-pro-7b-image"
+    },
+    {
+      "provider": "DuckDuckGo",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "DuckDuckGo is not working"
+    },
+    {
+      "provider": "DuckDuckGo",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "DuckDuckGo is not working"
+    },
+    {
+      "provider": "DuckDuckGo",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "DuckDuckGo is not working"
+    },
+    {
+      "provider": "DuckDuckGo",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "DuckDuckGo is not working"
+    },
+    {
+      "provider": "DuckDuckGo",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "DuckDuckGo is not working"
+    },
+    {
+      "provider": "EasyChat",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "EasyChat is not working"
+    },
+    {
+      "provider": "EasyChat",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "EasyChat is not working"
+    },
+    {
+      "provider": "EasyChat",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "EasyChat is not working"
+    },
+    {
+      "provider": "EasyChat",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "EasyChat is not working"
+    },
+    {
+      "provider": "EasyChat",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "EasyChat is not working"
+    },
+    {
+      "provider": "EdgeTTS",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "EdgeTTS is not working"
+    },
+    {
+      "provider": "EdgeTTS",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "EdgeTTS is not working"
+    },
+    {
+      "provider": "EdgeTTS",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "EdgeTTS is not working"
+    },
+    {
+      "provider": "EdgeTTS",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "EdgeTTS is not working"
+    },
+    {
+      "provider": "EdgeTTS",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "EdgeTTS is not working"
+    },
+    {
+      "provider": "Feature",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Feature is not working"
+    },
+    {
+      "provider": "Feature",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Feature is not working"
+    },
+    {
+      "provider": "Feature",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Feature is not working"
+    },
+    {
+      "provider": "Feature",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Feature is not working"
+    },
+    {
+      "provider": "Feature",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Feature is not working"
+    },
+    {
+      "provider": "FenayAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "FenayAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "FenayAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "FenayAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "FenayAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "DeepInfra",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: DeepInfra Valid models: ['deepseek-ai/DeepSeek-V3.1', 'openai/gpt-oss-120b', 'openai/gpt-oss-20b', 'Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo', 'zai-org/GLM-4.5', 'm"
+    },
+    {
+      "provider": "Custom",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:8080 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "Custom",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:8080 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "Custom",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:8080 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "GLM",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: GLM Valid models: ['GLM-4.5', 'GLM-4.5-Air', 'GLM-4.5V', 'GLM-4-32B', 'GLM-4.1V-9B-Thinking', 'Z1-Rumination', 'Z1-32B', 'ChatGLM']"
+    },
+    {
+      "provider": "Gemini",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Missing \"__Secure-1PSID\" cookie"
+    },
+    {
+      "provider": "Gemini",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Missing \"__Secure-1PSID\" cookie"
+    },
+    {
+      "provider": "Gemini",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Missing \"__Secure-1PSID\" cookie"
+    },
+    {
+      "provider": "Gemini",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Missing \"__Secure-1PSID\" cookie"
+    },
+    {
+      "provider": "Gemini",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Missing \"__Secure-1PSID\" cookie"
+    },
+    {
+      "provider": "GeminiCLI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "GCP_SERVICE_ACCOUNT environment variable not set."
+    },
+    {
+      "provider": "GeminiCLI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "GCP_SERVICE_ACCOUNT environment variable not set."
+    },
+    {
+      "provider": "GeminiCLI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "GCP_SERVICE_ACCOUNT environment variable not set."
+    },
+    {
+      "provider": "GeminiCLI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "GCP_SERVICE_ACCOUNT environment variable not set."
+    },
+    {
+      "provider": "GeminiCLI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "GCP_SERVICE_ACCOUNT environment variable not set."
+    },
+    {
+      "provider": "GeminiPro",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GeminiPro",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GeminiPro",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GeminiPro",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GeminiPro",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GigaChat",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: GigaChat Valid models: ['GigaChat-2', 'GigaChat-2-Pro', 'GigaChat-2-Max', 'GigaChat', 'GigaChat-Pro', 'GigaChat-Max']"
+    },
+    {
+      "provider": "GigaChat",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: GigaChat Valid models: ['GigaChat-2', 'GigaChat-2-Pro', 'GigaChat-2-Max', 'GigaChat', 'GigaChat-Pro', 'GigaChat-Max']"
+    },
+    {
+      "provider": "GigaChat",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: GigaChat Valid models: ['GigaChat-2', 'GigaChat-2-Pro', 'GigaChat-2-Max', 'GigaChat', 'GigaChat-Pro', 'GigaChat-Max']"
+    },
+    {
+      "provider": "GigaChat",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: GigaChat Valid models: ['GigaChat-2', 'GigaChat-2-Pro', 'GigaChat-2-Max', 'GigaChat', 'GigaChat-Pro', 'GigaChat-Max']"
+    },
+    {
+      "provider": "GigaChat",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: GigaChat Valid models: ['GigaChat-2', 'GigaChat-2-Pro', 'GigaChat-2-Max', 'GigaChat', 'GigaChat-Pro', 'GigaChat-Max']"
+    },
+    {
+      "provider": "GithubCopilot",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "GithubCopilot",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "GithubCopilot",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "GithubCopilot",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "GithubCopilot",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "GithubCopilotAPI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GithubCopilotAPI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GithubCopilotAPI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GithubCopilotAPI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GithubCopilotAPI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GlhfChat",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GlhfChat",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GlhfChat",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GlhfChat",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GlhfChat",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "GoogleSearch",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "GoogleSearch is not working"
+    },
+    {
+      "provider": "GoogleSearch",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "GoogleSearch is not working"
+    },
+    {
+      "provider": "GoogleSearch",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "GoogleSearch is not working"
+    },
+    {
+      "provider": "GoogleSearch",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "GoogleSearch is not working"
+    },
+    {
+      "provider": "GoogleSearch",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "GoogleSearch is not working"
+    },
+    {
+      "provider": "Grok",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Grok",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Grok",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Grok",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Grok",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Groq",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Groq",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Groq",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Groq",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Groq",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HailuoAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "HailuoAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "HailuoAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "HailuoAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "HailuoAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "HuggingChat",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "HuggingChat is not working"
+    },
+    {
+      "provider": "HuggingChat",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "HuggingChat is not working"
+    },
+    {
+      "provider": "HuggingChat",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "HuggingChat is not working"
+    },
+    {
+      "provider": "HuggingChat",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "HuggingChat is not working"
+    },
+    {
+      "provider": "HuggingChat",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "HuggingChat is not working"
+    },
+    {
+      "provider": "GLM",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: GLM Valid models: ['GLM-4.5', 'GLM-4.5-Air', 'GLM-4.5V', 'GLM-4-32B', 'GLM-4.1V-9B-Thinking', 'Z1-Rumination', 'Z1-32B', 'ChatGLM']"
+    },
+    {
+      "provider": "GLM",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: GLM Valid models: ['GLM-4.5', 'GLM-4.5-Air', 'GLM-4.5V', 'GLM-4-32B', 'GLM-4.1V-9B-Thinking', 'Z1-Rumination', 'Z1-32B', 'ChatGLM']"
+    },
+    {
+      "provider": "GLM",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: GLM Valid models: ['GLM-4.5', 'GLM-4.5-Air', 'GLM-4.5V', 'GLM-4-32B', 'GLM-4.1V-9B-Thinking', 'Z1-Rumination', 'Z1-32B', 'ChatGLM']"
+    },
+    {
+      "provider": "GLM",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: GLM Valid models: ['GLM-4.5', 'GLM-4.5-Air', 'GLM-4.5V', 'GLM-4-32B', 'GLM-4.1V-9B-Thinking', 'Z1-Rumination', 'Z1-32B', 'ChatGLM']"
+    },
+    {
+      "provider": "HuggingFace",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFace",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFace",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceAPI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Response 401: Invalid username or password.: {'error': 'Invalid username or password.'}"
+    },
+    {
+      "provider": "HuggingFace",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceAPI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Response 401: Invalid username or password.: {'error': 'Invalid username or password.'}"
+    },
+    {
+      "provider": "HuggingFaceInference",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "HuggingFaceInference is not working"
+    },
+    {
+      "provider": "HuggingFaceInference",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "HuggingFaceInference is not working"
+    },
+    {
+      "provider": "HuggingFaceInference",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "HuggingFaceInference is not working"
+    },
+    {
+      "provider": "HuggingFaceInference",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "HuggingFaceInference is not working"
+    },
+    {
+      "provider": "HuggingFaceInference",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "HuggingFaceInference is not working"
+    },
+    {
+      "provider": "HuggingFaceMedia",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceMedia",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceMedia",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceMedia",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceMedia",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingSpace",
+      "model": "gpt-3.5-turbo",
+      "status": "EMPTY_RESPONSE",
+      "time": 0.0
+    },
+    {
+      "provider": "HuggingSpace",
+      "model": "gpt-4",
+      "status": "EMPTY_RESPONSE",
+      "time": 0.0
+    },
+    {
+      "provider": "HuggingSpace",
+      "model": "gpt-4o-mini",
+      "status": "EMPTY_RESPONSE",
+      "time": 0.0
+    },
+    {
+      "provider": "HuggingSpace",
+      "model": "claude-3-haiku",
+      "status": "EMPTY_RESPONSE",
+      "time": 0.0
+    },
+    {
+      "provider": "HuggingSpace",
+      "model": "gemini-pro",
+      "status": "EMPTY_RESPONSE",
+      "time": 0.0
+    },
+    {
+      "provider": "IterListProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "IterListProvider is not working"
+    },
+    {
+      "provider": "IterListProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "IterListProvider is not working"
+    },
+    {
+      "provider": "IterListProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "IterListProvider is not working"
+    },
+    {
+      "provider": "IterListProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "IterListProvider is not working"
+    },
+    {
+      "provider": "IterListProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "IterListProvider is not working"
+    },
+    {
+      "provider": "HuggingFace",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "HuggingFaceAPI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Response 401: Invalid username or password.: {'error': 'Invalid username or password.'}"
+    },
+    {
+      "provider": "HuggingFaceAPI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Response 401: Invalid username or password.: {'error': 'Invalid username or password.'}"
+    },
+    {
+      "provider": "HuggingFaceAPI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Response 401: Invalid username or password.: {'error': 'Invalid username or password.'}"
+    },
+    {
+      "provider": "Kimi",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Connection closed"
+    },
+    {
+      "provider": "LMArena",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "LMArena",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "LMArena",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "LMArena",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "LMArena",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "LambdaChat",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: LambdaChat Valid models: ['deepseek-llama3.3-70b', 'apriel-5b-instruct', 'hermes-3-llama-3.1-405b-fp8', 'llama3.3-70b-instruct-fp8', 'llama3.3-70b-instruct-fp8', 'qw"
+    },
+    {
+      "provider": "LambdaChat",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: LambdaChat Valid models: ['deepseek-llama3.3-70b', 'apriel-5b-instruct', 'hermes-3-llama-3.1-405b-fp8', 'llama3.3-70b-instruct-fp8', 'llama3.3-70b-instruct-fp8', 'qwen3-32b-"
+    },
+    {
+      "provider": "LambdaChat",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: LambdaChat Valid models: ['deepseek-llama3.3-70b', 'apriel-5b-instruct', 'hermes-3-llama-3.1-405b-fp8', 'llama3.3-70b-instruct-fp8', 'llama3.3-70b-instruct-fp8', 'qwen"
+    },
+    {
+      "provider": "LambdaChat",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: LambdaChat Valid models: ['deepseek-llama3.3-70b', 'apriel-5b-instruct', 'hermes-3-llama-3.1-405b-fp8', 'llama3.3-70b-instruct-fp8', 'llama3.3-70b-instruct-fp8', 'q"
+    },
+    {
+      "provider": "LambdaChat",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: LambdaChat Valid models: ['deepseek-llama3.3-70b', 'apriel-5b-instruct', 'hermes-3-llama-3.1-405b-fp8', 'llama3.3-70b-instruct-fp8', 'llama3.3-70b-instruct-fp8', 'qwen3"
+    },
+    {
+      "provider": "Local",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Local is not working"
+    },
+    {
+      "provider": "Local",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Local is not working"
+    },
+    {
+      "provider": "Local",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Local is not working"
+    },
+    {
+      "provider": "Local",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Local is not working"
+    },
+    {
+      "provider": "Local",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Local is not working"
+    },
+    {
+      "provider": "MarkItDown",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "MarkItDown is not working"
+    },
+    {
+      "provider": "MarkItDown",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "MarkItDown is not working"
+    },
+    {
+      "provider": "MarkItDown",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "MarkItDown is not working"
+    },
+    {
+      "provider": "MarkItDown",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "MarkItDown is not working"
+    },
+    {
+      "provider": "MarkItDown",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "MarkItDown is not working"
+    },
+    {
+      "provider": "MediaListType",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "MediaListType",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "MediaListType",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "MediaListType",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "MediaListType",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Messages",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Messages",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Messages",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Messages",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Messages",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'list' has no attribute 'working'"
+    },
+    {
+      "provider": "Kimi",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Connection closed"
+    },
+    {
+      "provider": "Kimi",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Connection closed"
+    },
+    {
+      "provider": "Kimi",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Connection closed"
+    },
+    {
+      "provider": "Kimi",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Connection closed"
+    },
+    {
+      "provider": "MetaAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "provider": "MetaAIAccount",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "MetaAIAccount",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "MetaAIAccount",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "MetaAIAccount",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "MetaAIAccount",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "MicrosoftDesigner",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "MicrosoftDesigner",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "MicrosoftDesigner",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "MicrosoftDesigner",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "MicrosoftDesigner",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "har_and_cookies dir is not readable"
+    },
+    {
+      "provider": "MetaAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "provider": "MetaAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "provider": "MetaAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "provider": "MetaAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "provider": "Microsoft_Phi_4_Multimodal",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Response 503: HTML content"
+    },
+    {
+      "provider": "MiniMax",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "MiniMax",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "MiniMax",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "MiniMax",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "MiniMax",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Mintlify",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Mintlify Valid models: ['mintlify']"
+    },
+    {
+      "provider": "Mintlify",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: Mintlify Valid models: ['mintlify']"
+    },
+    {
+      "provider": "Mintlify",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: Mintlify Valid models: ['mintlify']"
+    },
+    {
+      "provider": "Mintlify",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Mintlify Valid models: ['mintlify']"
+    },
+    {
+      "provider": "Mintlify",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Mintlify Valid models: ['mintlify']"
+    },
+    {
+      "provider": "Nvidia",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Nvidia",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Nvidia",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Nvidia",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Nvidia",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OIVSCodeSer0501",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: OIVSCodeSer0501 Valid models: ['gpt-4.1-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer0501",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: OIVSCodeSer0501 Valid models: ['gpt-4.1-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer0501",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: OIVSCodeSer0501 Valid models: ['gpt-4.1-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer0501",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: OIVSCodeSer0501 Valid models: ['gpt-4.1-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer0501",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: OIVSCodeSer0501 Valid models: ['gpt-4.1-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer2",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: OIVSCodeSer2 Valid models: ['gpt-4o-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer2",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: OIVSCodeSer2 Valid models: ['gpt-4o-mini']"
+    },
+    {
+      "provider": "Microsoft_Phi_4_Multimodal",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Response 503: HTML content"
+    },
+    {
+      "provider": "OIVSCodeSer2",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: OIVSCodeSer2 Valid models: ['gpt-4o-mini']"
+    },
+    {
+      "provider": "OIVSCodeSer2",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: OIVSCodeSer2 Valid models: ['gpt-4o-mini']"
+    },
+    {
+      "provider": "Microsoft_Phi_4_Multimodal",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Response 503: HTML content"
+    },
+    {
+      "provider": "Microsoft_Phi_4_Multimodal",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Response 503: HTML content"
+    },
+    {
+      "provider": "Microsoft_Phi_4_Multimodal",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Response 503: HTML content"
+    },
+    {
+      "provider": "Ollama",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:11434 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "Ollama",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:11434 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "OpenRouter",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouter",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouter",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouter",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouter",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouterFree",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouterFree",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouterFree",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouterFree",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "OpenRouterFree",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Ollama",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:11434 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "Ollama",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:11434 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 79,
+      "time": 5.28,
+      "response_preview": "Привет! У меня всё хорошо, спасибо! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 92,
+      "time": 5.68,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А у вас как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "Ollama",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Cannot connect to host localhost:11434 ssl:default [Удаленный компьютер отклонил это сетевое подключение]"
+    },
+    {
+      "provider": "PerplexityApi",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "PerplexityApi",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "PerplexityApi",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "PerplexityApi",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "PerplexityApi",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "PerplexityLabs",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Response 403: Cloudflare detected"
+    },
+    {
+      "provider": "PerplexityLabs",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Response 403: Cloudflare detected"
+    },
+    {
+      "provider": "PerplexityLabs",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Response 403: Cloudflare detected"
+    },
+    {
+      "provider": "PerplexityLabs",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Response 403: Cloudflare detected"
+    },
+    {
+      "provider": "PerplexityLabs",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Response 403: Cloudflare detected"
+    },
+    {
+      "provider": "Pi",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Pi",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Pi",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Pi",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "Pi",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"nodriver\" and \"platformdirs\" package | pip install -U nodriver platformdirs"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 93,
+      "time": 7.66,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 93,
+      "time": 5.11,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А как у тебя дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 80,
+      "time": 4.76,
+      "response_preview": "Привет! У меня все отлично, спасибо! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "PollinationsAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Error 404: Model not found: gpt-4"
+    },
+    {
+      "provider": "PollinationsAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Error 404: Model not found: gpt-3.5-turbo"
+    },
+    {
+      "provider": "PollinationsAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Error 404: Model not found: gpt-4o-mini"
+    },
+    {
+      "provider": "PollinationsAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Error 404: Model not found: claude-3-haiku"
+    },
+    {
+      "provider": "PollinationsAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Error 404: Model not found: gemini-pro"
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 544,
+      "time": 4.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 554,
+      "time": 4.03,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "ProviderModelMixin",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'ProviderModelMixin' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderModelMixin",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'ProviderModelMixin' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderModelMixin",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'ProviderModelMixin' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderModelMixin",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'ProviderModelMixin' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderModelMixin",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'ProviderModelMixin' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderType",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "working"
+    },
+    {
+      "provider": "ProviderType",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "working"
+    },
+    {
+      "provider": "ProviderType",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "working"
+    },
+    {
+      "provider": "ProviderType",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "working"
+    },
+    {
+      "provider": "ProviderType",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "working"
+    },
+    {
+      "provider": "ProviderUtils",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'ProviderUtils' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderUtils",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'ProviderUtils' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderUtils",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'ProviderUtils' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderUtils",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'ProviderUtils' has no attribute 'working'"
+    },
+    {
+      "provider": "ProviderUtils",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'ProviderUtils' has no attribute 'working'"
+    },
+    {
+      "provider": "PuterJS",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "API key is required for Puter.js API"
+    },
+    {
+      "provider": "PuterJS",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "API key is required for Puter.js API"
+    },
+    {
+      "provider": "PuterJS",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "API key is required for Puter.js API"
+    },
+    {
+      "provider": "PuterJS",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "API key is required for Puter.js API"
+    },
+    {
+      "provider": "PuterJS",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "API key is required for Puter.js API"
+    },
+    {
+      "provider": "Qwen",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Qwen Valid models: ['qwen3-235b-a22b', 'qwen3-coder-plus', 'qwen3-30b-a3b', 'qwen3-coder-30b-a3b-instruct', 'qwen-max-latest', 'qwen-plus-2025-01-25', 'qwq-32b', 'qw"
+    },
+    {
+      "provider": "Qwen",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: Qwen Valid models: ['qwen3-235b-a22b', 'qwen3-coder-plus', 'qwen3-30b-a3b', 'qwen3-coder-30b-a3b-instruct', 'qwen-max-latest', 'qwen-plus-2025-01-25', 'qwq-32b', 'qwen-turbo"
+    },
+    {
+      "provider": "Qwen",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: Qwen Valid models: ['qwen3-235b-a22b', 'qwen3-coder-plus', 'qwen3-30b-a3b', 'qwen3-coder-30b-a3b-instruct', 'qwen-max-latest', 'qwen-plus-2025-01-25', 'qwq-32b', 'qwen"
+    },
+    {
+      "provider": "Qwen",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Qwen Valid models: ['qwen3-235b-a22b', 'qwen3-coder-plus', 'qwen3-30b-a3b', 'qwen3-coder-30b-a3b-instruct', 'qwen-max-latest', 'qwen-plus-2025-01-25', 'qwq-32b', 'q"
+    },
+    {
+      "provider": "Qwen",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Qwen Valid models: ['qwen3-235b-a22b', 'qwen3-coder-plus', 'qwen3-30b-a3b', 'qwen3-coder-30b-a3b-instruct', 'qwen-max-latest', 'qwen-plus-2025-01-25', 'qwq-32b', 'qwen-"
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 534,
+      "time": 7.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "OIVSCodeSer2",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": ""
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 552,
+      "time": 17.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 546,
+      "time": 14.99,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 130,
+      "time": 16.35,
+      "response_preview": "Привет! Спасибо, что спросили. У меня всё хорошо, ведь я всегда готов помочь вам. А как у вас дела? ..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5M",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "'data'"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 88,
+      "time": 14.93,
+      "response_preview": "Привет! У меня всё хорошо, спасибо за интерес! Как у тебя дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5M",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "'data'"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5M",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "'data'"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 148,
+      "time": 11.06,
+      "response_preview": "Привет! Спасибо за вопрос. У меня всё хорошо, как виртуальный ассистент, я всегда готов помочь вам. ..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5M",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "'data'"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5M",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "'data'"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 90,
+      "time": 7.29,
+      "response_preview": "Привет! Спасибо, что спросили, у меня всё хорошо! Как у вас дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 104,
+      "time": 3.73,
+      "response_preview": "Привет! Я программа, поэтому у меня нет чувств, но спасибо, что спросили! 😊 Как могу помочь вам сего..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 74,
+      "time": 3.1,
+      "response_preview": "Привет! Я делаю хорошо, спасибо что спросили. Как могу помочь вам сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 122,
+      "time": 5.85,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо за интерес! 😊 Как у тебя де..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 117,
+      "time": 6.66,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо что спросили! Как я могу по..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 106,
+      "time": 3.41,
+      "response_preview": "Привет! Я искусственный интеллект, у меня нет чувств, но спасибо за интерес. Как могу помочь тебе се..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 117,
+      "time": 3.79,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо что спросили! 😊 Как могу по..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 114,
+      "time": 3.66,
+      "response_preview": "Привет! Я искусственный интеллект, так что у меня нет чувств, но спасибо за интерес. Как могу помочь..."
+    },
+    {
+      "provider": "Qwen_Qwen_3",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Qwen_Qwen_3 Valid models: {'qwen-3-8b', 'qwen-3-4b', 'qwen-3-14b', 'qwen-3-30b-a3b', 'qwen-3-235b', 'qwen-3-32b', 'qwen-3-1.7b', 'qwen-3-0.6b'}"
+    },
+    {
+      "provider": "Qwen_Qwen_3",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: Qwen_Qwen_3 Valid models: {'qwen-3-8b', 'qwen-3-4b', 'qwen-3-14b', 'qwen-3-30b-a3b', 'qwen-3-235b', 'qwen-3-32b', 'qwen-3-1.7b', 'qwen-3-0.6b'}"
+    },
+    {
+      "provider": "Qwen_Qwen_3",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: Qwen_Qwen_3 Valid models: {'qwen-3-8b', 'qwen-3-4b', 'qwen-3-14b', 'qwen-3-30b-a3b', 'qwen-3-235b', 'qwen-3-32b', 'qwen-3-1.7b', 'qwen-3-0.6b'}"
+    },
+    {
+      "provider": "Qwen_Qwen_3",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Qwen_Qwen_3 Valid models: {'qwen-3-8b', 'qwen-3-4b', 'qwen-3-14b', 'qwen-3-30b-a3b', 'qwen-3-235b', 'qwen-3-32b', 'qwen-3-1.7b', 'qwen-3-0.6b'}"
+    },
+    {
+      "provider": "Qwen_Qwen_3",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Qwen_Qwen_3 Valid models: {'qwen-3-8b', 'qwen-3-4b', 'qwen-3-14b', 'qwen-3-30b-a3b', 'qwen-3-235b', 'qwen-3-32b', 'qwen-3-1.7b', 'qwen-3-0.6b'}"
+    },
+    {
+      "provider": "Reka",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Reka is not working"
+    },
+    {
+      "provider": "Reka",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Reka is not working"
+    },
+    {
+      "provider": "Reka",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Reka is not working"
+    },
+    {
+      "provider": "Reka",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Reka is not working"
+    },
+    {
+      "provider": "Reka",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Reka is not working"
+    },
+    {
+      "provider": "Replicate",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Replicate Valid models: ['meta/meta-llama-3-70b-instruct']"
+    },
+    {
+      "provider": "Replicate",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: Replicate Valid models: ['meta/meta-llama-3-70b-instruct']"
+    },
+    {
+      "provider": "Replicate",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: Replicate Valid models: ['meta/meta-llama-3-70b-instruct']"
+    },
+    {
+      "provider": "Replicate",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Replicate Valid models: ['meta/meta-llama-3-70b-instruct']"
+    },
+    {
+      "provider": "Replicate",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Replicate Valid models: ['meta/meta-llama-3-70b-instruct']"
+    },
+    {
+      "provider": "ResponseError",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "type object 'ResponseError' has no attribute 'working'"
+    },
+    {
+      "provider": "ResponseError",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "type object 'ResponseError' has no attribute 'working'"
+    },
+    {
+      "provider": "ResponseError",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "type object 'ResponseError' has no attribute 'working'"
+    },
+    {
+      "provider": "ResponseError",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "type object 'ResponseError' has no attribute 'working'"
+    },
+    {
+      "provider": "ResponseError",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "type object 'ResponseError' has no attribute 'working'"
+    },
+    {
+      "provider": "RetryProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "RetryProvider is not working"
+    },
+    {
+      "provider": "RetryProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "RetryProvider is not working"
+    },
+    {
+      "provider": "RetryProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "RetryProvider is not working"
+    },
+    {
+      "provider": "RetryProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "RetryProvider is not working"
+    },
+    {
+      "provider": "RetryProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "RetryProvider is not working"
+    },
+    {
+      "provider": "RotatedProvider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "RotatedProvider is not working"
+    },
+    {
+      "provider": "RotatedProvider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "RotatedProvider is not working"
+    },
+    {
+      "provider": "RotatedProvider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "RotatedProvider is not working"
+    },
+    {
+      "provider": "RotatedProvider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "RotatedProvider is not working"
+    },
+    {
+      "provider": "RotatedProvider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "RotatedProvider is not working"
+    },
+    {
+      "provider": "SearXNG",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "SearXNG is not working"
+    },
+    {
+      "provider": "SearXNG",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "SearXNG is not working"
+    },
+    {
+      "provider": "SearXNG",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "SearXNG is not working"
+    },
+    {
+      "provider": "SearXNG",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "SearXNG is not working"
+    },
+    {
+      "provider": "SearXNG",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "SearXNG is not working"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 65,
+      "time": 3.21,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. Чем могу помочь тебе сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 65,
+      "time": 3.52,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. Чем могу помочь тебе сегодня?"
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 116,
+      "time": 4.43,
+      "response_preview": "Привет! Я искусственный интеллект, так что у меня нет чувств, но спасибо за интерес. Чем я могу помо..."
+    },
+    {
+      "provider": "Startnest",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Startnest is not working"
+    },
+    {
+      "provider": "Startnest",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Startnest is not working"
+    },
+    {
+      "provider": "Startnest",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Startnest is not working"
+    },
+    {
+      "provider": "Startnest",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Startnest is not working"
+    },
+    {
+      "provider": "Startnest",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Startnest is not working"
+    },
+    {
+      "provider": "TeachAnything",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: TeachAnything Valid models: ['gemma']"
+    },
+    {
+      "provider": "TeachAnything",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4 in: TeachAnything Valid models: ['gemma']"
+    },
+    {
+      "provider": "TeachAnything",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: TeachAnything Valid models: ['gemma']"
+    },
+    {
+      "provider": "TeachAnything",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: TeachAnything Valid models: ['gemma']"
+    },
+    {
+      "provider": "TeachAnything",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: TeachAnything Valid models: ['gemma']"
+    },
+    {
+      "provider": "ThebApi",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "ThebApi",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "ThebApi",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "ThebApi",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "ThebApi",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Together",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Together",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Together",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Together",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Together",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "Video",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model 'gpt-3.5-turbo' is not supported by Video. Supported models: ['search', 'sora']"
+    },
+    {
+      "provider": "Video",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Model 'gpt-4' is not supported by Video. Supported models: ['search', 'sora']"
+    },
+    {
+      "provider": "Video",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model 'gpt-4o-mini' is not supported by Video. Supported models: ['search', 'sora']"
+    },
+    {
+      "provider": "Video",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model 'claude-3-haiku' is not supported by Video. Supported models: ['search', 'sora']"
+    },
+    {
+      "provider": "Video",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model 'gemini-pro' is not supported by Video. Supported models: ['search', 'sora']"
+    },
+    {
+      "provider": "WeWordle",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: WeWordle Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "WeWordle",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: WeWordle Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "WeWordle",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: WeWordle Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "WeWordle",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: WeWordle Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "WhiteRabbitNeo",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "WhiteRabbitNeo",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "WhiteRabbitNeo",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "WhiteRabbitNeo",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "WhiteRabbitNeo",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Install \"browser_cookie3\" package"
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Model not found: gpt-3.5-turbo in: Yqcloud Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Model not found: gpt-4o-mini in: Yqcloud Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Model not found: claude-3-haiku in: Yqcloud Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Model not found: gemini-pro in: Yqcloud Valid models: ['gpt-4']"
+    },
+    {
+      "provider": "annotations",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "'_Feature' object has no attribute 'working'"
+    },
+    {
+      "provider": "annotations",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "'_Feature' object has no attribute 'working'"
+    },
+    {
+      "provider": "annotations",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "'_Feature' object has no attribute 'working'"
+    },
+    {
+      "provider": "annotations",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "'_Feature' object has no attribute 'working'"
+    },
+    {
+      "provider": "annotations",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "'_Feature' object has no attribute 'working'"
+    },
+    {
+      "provider": "audio",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.audio' has no attribute 'working'"
+    },
+    {
+      "provider": "audio",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.audio' has no attribute 'working'"
+    },
+    {
+      "provider": "audio",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.audio' has no attribute 'working'"
+    },
+    {
+      "provider": "audio",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.audio' has no attribute 'working'"
+    },
+    {
+      "provider": "audio",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.audio' has no attribute 'working'"
+    },
+    {
+      "provider": "base_provider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.base_provider' has no attribute 'working'"
+    },
+    {
+      "provider": "base_provider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.base_provider' has no attribute 'working'"
+    },
+    {
+      "provider": "base_provider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.base_provider' has no attribute 'working'"
+    },
+    {
+      "provider": "base_provider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.base_provider' has no attribute 'working'"
+    },
+    {
+      "provider": "base_provider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.base_provider' has no attribute 'working'"
+    },
+    {
+      "provider": "bing",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth.bing' has no attribute 'working'"
+    },
+    {
+      "provider": "bing",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth.bing' has no attribute 'working'"
+    },
+    {
+      "provider": "bing",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth.bing' has no attribute 'working'"
+    },
+    {
+      "provider": "bing",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth.bing' has no attribute 'working'"
+    },
+    {
+      "provider": "bing",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth.bing' has no attribute 'working'"
+    },
+    {
+      "provider": "debug",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.debug' has no attribute 'working'"
+    },
+    {
+      "provider": "debug",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.debug' has no attribute 'working'"
+    },
+    {
+      "provider": "debug",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.debug' has no attribute 'working'"
+    },
+    {
+      "provider": "debug",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.debug' has no attribute 'working'"
+    },
+    {
+      "provider": "debug",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.debug' has no attribute 'working'"
+    },
+    {
+      "provider": "deprecated",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.deprecated' has no attribute 'working'"
+    },
+    {
+      "provider": "deprecated",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.deprecated' has no attribute 'working'"
+    },
+    {
+      "provider": "deprecated",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.deprecated' has no attribute 'working'"
+    },
+    {
+      "provider": "deprecated",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.deprecated' has no attribute 'working'"
+    },
+    {
+      "provider": "deprecated",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.deprecated' has no attribute 'working'"
+    },
+    {
+      "provider": "gTTS",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "gTTS is not working"
+    },
+    {
+      "provider": "gTTS",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "gTTS is not working"
+    },
+    {
+      "provider": "gTTS",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "gTTS is not working"
+    },
+    {
+      "provider": "gTTS",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "gTTS is not working"
+    },
+    {
+      "provider": "gTTS",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "gTTS is not working"
+    },
+    {
+      "provider": "helper",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.helper' has no attribute 'working'"
+    },
+    {
+      "provider": "helper",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.helper' has no attribute 'working'"
+    },
+    {
+      "provider": "helper",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.helper' has no attribute 'working'"
+    },
+    {
+      "provider": "helper",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.helper' has no attribute 'working'"
+    },
+    {
+      "provider": "helper",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.helper' has no attribute 'working'"
+    },
+    {
+      "provider": "hf_space",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space' has no attribute 'working'"
+    },
+    {
+      "provider": "hf_space",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space' has no attribute 'working'"
+    },
+    {
+      "provider": "hf_space",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space' has no attribute 'working'"
+    },
+    {
+      "provider": "hf_space",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space' has no attribute 'working'"
+    },
+    {
+      "provider": "hf_space",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space' has no attribute 'working'"
+    },
+    {
+      "provider": "local",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.local' has no attribute 'working'"
+    },
+    {
+      "provider": "local",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.local' has no attribute 'working'"
+    },
+    {
+      "provider": "local",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.local' has no attribute 'working'"
+    },
+    {
+      "provider": "local",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.local' has no attribute 'working'"
+    },
+    {
+      "provider": "local",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.local' has no attribute 'working'"
+    },
+    {
+      "provider": "needs_auth",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth' has no attribute 'working'"
+    },
+    {
+      "provider": "needs_auth",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth' has no attribute 'working'"
+    },
+    {
+      "provider": "needs_auth",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth' has no attribute 'working'"
+    },
+    {
+      "provider": "needs_auth",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth' has no attribute 'working'"
+    },
+    {
+      "provider": "needs_auth",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.needs_auth' has no attribute 'working'"
+    },
+    {
+      "provider": "openai",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.openai' has no attribute 'working'"
+    },
+    {
+      "provider": "openai",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.openai' has no attribute 'working'"
+    },
+    {
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.openai' has no attribute 'working'"
+    },
+    {
+      "provider": "openai",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.openai' has no attribute 'working'"
+    },
+    {
+      "provider": "openai",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.openai' has no attribute 'working'"
+    },
+    {
+      "provider": "provider",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "provider",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "WeWordle",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 54,
+      "time": 3.05,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. А как у тебя дела?"
+    },
+    {
+      "provider": "provider",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "provider",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "raise_for_status",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space.raise_for_status' has no attribute 'working'"
+    },
+    {
+      "provider": "raise_for_status",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space.raise_for_status' has no attribute 'working'"
+    },
+    {
+      "provider": "raise_for_status",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space.raise_for_status' has no attribute 'working'"
+    },
+    {
+      "provider": "raise_for_status",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space.raise_for_status' has no attribute 'working'"
+    },
+    {
+      "provider": "raise_for_status",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.hf_space.raise_for_status' has no attribute 'working'"
+    },
+    {
+      "provider": "random",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'random' has no attribute 'working'"
+    },
+    {
+      "provider": "random",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'random' has no attribute 'working'"
+    },
+    {
+      "provider": "random",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'random' has no attribute 'working'"
+    },
+    {
+      "provider": "random",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'random' has no attribute 'working'"
+    },
+    {
+      "provider": "random",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'random' has no attribute 'working'"
+    },
+    {
+      "provider": "search",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.search' has no attribute 'working'"
+    },
+    {
+      "provider": "search",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.search' has no attribute 'working'"
+    },
+    {
+      "provider": "search",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.search' has no attribute 'working'"
+    },
+    {
+      "provider": "search",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.search' has no attribute 'working'"
+    },
+    {
+      "provider": "search",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.search' has no attribute 'working'"
+    },
+    {
+      "provider": "sys",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'sys' has no attribute 'working'"
+    },
+    {
+      "provider": "sys",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'sys' has no attribute 'working'"
+    },
+    {
+      "provider": "sys",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'sys' has no attribute 'working'"
+    },
+    {
+      "provider": "sys",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'sys' has no attribute 'working'"
+    },
+    {
+      "provider": "sys",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'sys' has no attribute 'working'"
+    },
+    {
+      "provider": "template",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.template' has no attribute 'working'"
+    },
+    {
+      "provider": "template",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.template' has no attribute 'working'"
+    },
+    {
+      "provider": "template",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.template' has no attribute 'working'"
+    },
+    {
+      "provider": "template",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.template' has no attribute 'working'"
+    },
+    {
+      "provider": "template",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "module 'g4f.Provider.template' has no attribute 'working'"
+    },
+    {
+      "provider": "xAI",
+      "model": "gpt-3.5-turbo",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "xAI",
+      "model": "gpt-4",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "xAI",
+      "model": "gpt-4o-mini",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "xAI",
+      "model": "claude-3-haiku",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "xAI",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "Add a \"api_key\""
+    },
+    {
+      "provider": "provider",
+      "model": "gemini-pro",
+      "status": "ERROR",
+      "error": "GPU token limit exceeded: data: null\n"
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 47,
+      "time": 6.29,
+      "response_preview": "Привет! Всё хорошо, спасибо. А у тебя как дела?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 146,
+      "time": 22.36,
+      "response_preview": "Привет! Спасибо за вопрос. У меня всё хорошо, как виртуальный ассистент, я всегда готов помочь вам. ..."
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 344,
+      "time": 26.81,
+      "response_preview": "[![Привет! Как дела?](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/g..."
+    }
+  ],
+  "successful": [
+    {
+      "provider": "WeWordle",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 54,
+      "time": 3.05,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. А как у тебя дела?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 74,
+      "time": 3.1,
+      "response_preview": "Привет! Я делаю хорошо, спасибо что спросили. Как могу помочь вам сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 65,
+      "time": 3.21,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. Чем могу помочь тебе сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 106,
+      "time": 3.41,
+      "response_preview": "Привет! Я искусственный интеллект, у меня нет чувств, но спасибо за интерес. Как могу помочь тебе се..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 65,
+      "time": 3.52,
+      "response_preview": "Привет! У меня всё хорошо, спасибо. Чем могу помочь тебе сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 114,
+      "time": 3.66,
+      "response_preview": "Привет! Я искусственный интеллект, так что у меня нет чувств, но спасибо за интерес. Как могу помочь..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 104,
+      "time": 3.73,
+      "response_preview": "Привет! Я программа, поэтому у меня нет чувств, но спасибо, что спросили! 😊 Как могу помочь вам сего..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 117,
+      "time": 3.79,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо что спросили! 😊 Как могу по..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 544,
+      "time": 4.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 554,
+      "time": 4.03,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_72B",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 116,
+      "time": 4.43,
+      "response_preview": "Привет! Я искусственный интеллект, так что у меня нет чувств, но спасибо за интерес. Чем я могу помо..."
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 80,
+      "time": 4.76,
+      "response_preview": "Привет! У меня все отлично, спасибо! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 93,
+      "time": 5.11,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А как у тебя дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 79,
+      "time": 5.28,
+      "response_preview": "Привет! У меня всё хорошо, спасибо! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 92,
+      "time": 5.68,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А у вас как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 122,
+      "time": 5.85,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо за интерес! 😊 Как у тебя де..."
+    },
+    {
+      "provider": "Yqcloud",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 47,
+      "time": 6.29,
+      "response_preview": "Привет! Всё хорошо, спасибо. А у тебя как дела?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5_Max",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 117,
+      "time": 6.66,
+      "response_preview": "Привет! Я большой языковой модель, поэтому у меня нет чувств, но спасибо что спросили! Как я могу по..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 534,
+      "time": 7.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "claude-3-haiku",
+      "status": "SUCCESS",
+      "response_length": 90,
+      "time": 7.29,
+      "response_preview": "Привет! Спасибо, что спросили, у меня всё хорошо! Как у вас дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "OperaAria",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 93,
+      "time": 7.66,
+      "response_preview": "Привет! У меня все хорошо, спасибо, что спросили! А у тебя как дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-4o-mini",
+      "status": "SUCCESS",
+      "response_length": 148,
+      "time": 11.06,
+      "response_preview": "Привет! Спасибо за вопрос. У меня всё хорошо, как виртуальный ассистент, я всегда готов помочь вам. ..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-4",
+      "status": "SUCCESS",
+      "response_length": 88,
+      "time": 14.93,
+      "response_preview": "Привет! У меня всё хорошо, спасибо за интерес! Как у тебя дела? Чем могу помочь сегодня?"
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 546,
+      "time": 14.99,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 130,
+      "time": 16.35,
+      "response_preview": "Привет! Спасибо, что спросили. У меня всё хорошо, ведь я всегда готов помочь вам. А как у вас дела? ..."
+    },
+    {
+      "provider": "PollinationsImage",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 552,
+      "time": 17.01,
+      "response_preview": "[![Привет! Как дела?](https://image.pollinations.ai/prompt/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%2..."
+    },
+    {
+      "provider": "Qwen_Qwen_2_5",
+      "model": "gemini-pro",
+      "status": "SUCCESS",
+      "response_length": 146,
+      "time": 22.36,
+      "response_preview": "Привет! Спасибо за вопрос. У меня всё хорошо, как виртуальный ассистент, я всегда готов помочь вам. ..."
+    },
+    {
+      "provider": "StabilityAI_SD35Large",
+      "model": "gpt-3.5-turbo",
+      "status": "SUCCESS",
+      "response_length": 344,
+      "time": 26.81,
+      "response_preview": "[![Привет! Как дела?](https://stabilityai-stable-diffusion-3-5-large.hf.space/gradio_api/file=/tmp/g..."
+    }
+  ],
+  "total_tested": 555,
+  "success_rate": 5.045045045045045
+}
